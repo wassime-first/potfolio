@@ -1,0 +1,70 @@
+body {
+
+}
+
+.img-first {
+    height : 100%;
+    width : 100%;
+    padding : 0 5%
+
+}
+
+.img-second {
+  height : 100%;
+   width : 100%;
+   padding-top : 5% ;
+   padding-bottom: 5%
+}
+
+.f1 {
+  text-align : center;
+  display : inline-block
+}
+
+.t {
+  background-clor: white;
+  clor: white;
+  position: relative;
+  bottom : 50px;
+}
+
+.f2 {
+  padding : 0 5%
+}
+
+.f3 {
+  padding : 10% 0 0 5%
+}
+
+.f4 {
+  padding : 10% 0 0 5%
+}
+
+#footer {
+    padding: 100px 100px 0;
+    text-align: center;
+}
+
+.icons-sm {
+    margin: 10px;
+    color: black;
+    font-size: 2rem;
+}
+
+.i1 i:hover {
+    color: yellow;
+
+}
+
+.i1 i {
+    color: black;
+    margin: 1rem;
+}
+
+#footer p {
+    font-size: 1.5rem;
+}
+
+.card {
+  margin : 2%
+}
